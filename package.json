@@ -1,0 +1,27 @@
+{
+  "name": "ban_sec",
+  "lockfileVersion": 2,
+  "requires": true,
+  "scripts": {
+    "start":"node desafio.js"
+  },
+  "packages": {
+    "": {
+      "dependencies": {
+        "eol": "^0.9.1"
+      }
+    },
+    "node_modules/eol": {
+      "version": "0.9.1",
+      "resolved": "https://registry.npmjs.org/eol/-/eol-0.9.1.tgz",
+      "integrity": "sha512-Ds/TEoZjwggRoz/Q2O7SE3i4Jm66mqTDfmdHdq/7DKVk3bro9Q8h6WdXKdPqFLMoqxrDK5SVRzHVPOS6uuGtrg=="
+    }
+  },
+  "dependencies": {
+    "eol": {
+      "version": "0.9.1",
+      "resolved": "https://registry.npmjs.org/eol/-/eol-0.9.1.tgz",
+      "integrity": "sha512-Ds/TEoZjwggRoz/Q2O7SE3i4Jm66mqTDfmdHdq/7DKVk3bro9Q8h6WdXKdPqFLMoqxrDK5SVRzHVPOS6uuGtrg=="
+    }
+  }
+}
